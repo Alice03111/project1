@@ -1,0 +1,11 @@
+p{
+    color: rgb(240, 18, 240);
+}
+
+.block p{
+    color: red
+}
+
+.block{
+    border: 5px solid blue;
+}
